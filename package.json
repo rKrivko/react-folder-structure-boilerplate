@@ -1,0 +1,9 @@
+{
+  "name": "react-folder-structure-boilerplate",
+  "version": "1.0.0",
+  "description": "a clean react folder structure boilerplate",
+  "main": "none",
+  "author": "rKrivko <62034582+rKrivko@users.noreply.github.com>",
+  "license": "MIT",
+  "keywords": ["folder","folder structure", "react boilerpalte"]
+}
